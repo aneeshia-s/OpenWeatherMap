@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-18T14:05:21 PST" name="OpenWeatherMap" finished-at="2021-12-18T14:05:34 PST" duration-ms="12324">
+    <groups>
+    </groups>
+    <test started-at="2021-12-18T14:05:21 PST" name="Weather Test" finished-at="2021-12-18T14:05:34 PST" duration-ms="12324">
+      <class name="com.OpenWeatherMap.TestCases.TC002Paris">
+        <test-method signature="WeatherParis()[pri:0, instance:com.OpenWeatherMap.TestCases.TC002Paris@3bf9ce3e]" started-at="2021-12-18T14:05:28 PST" name="WeatherParis" finished-at="2021-12-18T14:05:29 PST" duration-ms="1561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WeatherParis -->
+        <test-method is-config="true" signature="Baseclass()[pri:0, instance:com.OpenWeatherMap.TestCases.TC002Paris@3bf9ce3e]" started-at="2021-12-18T14:05:29 PST" name="Baseclass" finished-at="2021-12-18T14:05:29 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Baseclass -->
+      </class> <!-- com.OpenWeatherMap.TestCases.TC002Paris -->
+      <class name="com.OpenWeatherMap.TestCases.TC001London">
+        <test-method signature="WeatherLondon()[pri:0, instance:com.OpenWeatherMap.TestCases.TC001London@15bbf42f]" started-at="2021-12-18T14:05:21 PST" name="WeatherLondon" finished-at="2021-12-18T14:05:28 PST" duration-ms="6217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WeatherLondon -->
+        <test-method is-config="true" signature="Baseclass()[pri:0, instance:com.OpenWeatherMap.TestCases.TC001London@15bbf42f]" started-at="2021-12-18T14:05:28 PST" name="Baseclass" finished-at="2021-12-18T14:05:28 PST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Baseclass -->
+      </class> <!-- com.OpenWeatherMap.TestCases.TC001London -->
+      <class name="com.OpenWeatherMap.TestCases.TC003NewYork">
+        <test-method signature="WeatherNewYork()[pri:0, instance:com.OpenWeatherMap.TestCases.TC003NewYork@16610890]" started-at="2021-12-18T14:05:29 PST" name="WeatherNewYork" finished-at="2021-12-18T14:05:31 PST" duration-ms="1584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WeatherNewYork -->
+        <test-method is-config="true" signature="Baseclass()[pri:0, instance:com.OpenWeatherMap.TestCases.TC003NewYork@16610890]" started-at="2021-12-18T14:05:31 PST" name="Baseclass" finished-at="2021-12-18T14:05:31 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Baseclass -->
+      </class> <!-- com.OpenWeatherMap.TestCases.TC003NewYork -->
+      <class name="com.OpenWeatherMap.TestCases.TC004Delhi">
+        <test-method signature="WeatherNewYork()[pri:0, instance:com.OpenWeatherMap.TestCases.TC004Delhi@71def8f8]" started-at="2021-12-18T14:05:31 PST" name="WeatherNewYork" finished-at="2021-12-18T14:05:32 PST" duration-ms="1452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WeatherNewYork -->
+        <test-method is-config="true" signature="Baseclass()[pri:0, instance:com.OpenWeatherMap.TestCases.TC004Delhi@71def8f8]" started-at="2021-12-18T14:05:32 PST" name="Baseclass" finished-at="2021-12-18T14:05:32 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Baseclass -->
+      </class> <!-- com.OpenWeatherMap.TestCases.TC004Delhi -->
+      <class name="com.OpenWeatherMap.TestCases.TC005Tokyo">
+        <test-method signature="WeatherNewYork()[pri:0, instance:com.OpenWeatherMap.TestCases.TC005Tokyo@383bfa16]" started-at="2021-12-18T14:05:32 PST" name="WeatherNewYork" finished-at="2021-12-18T14:05:34 PST" duration-ms="1416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WeatherNewYork -->
+        <test-method is-config="true" signature="Baseclass()[pri:0, instance:com.OpenWeatherMap.TestCases.TC005Tokyo@383bfa16]" started-at="2021-12-18T14:05:34 PST" name="Baseclass" finished-at="2021-12-18T14:05:34 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Baseclass -->
+      </class> <!-- com.OpenWeatherMap.TestCases.TC005Tokyo -->
+    </test> <!-- Weather Test -->
+  </suite> <!-- OpenWeatherMap -->
+</testng-results>

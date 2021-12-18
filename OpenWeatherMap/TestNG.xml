@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="OpenWeatherMap">
+
+	<test name="Weather Test">
+
+		<classes>
+			<class name="com.OpenWeatherMap.TestCases.TC001London" />
+			<class name="com.OpenWeatherMap.TestCases.TC002Paris" />
+			<class name="com.OpenWeatherMap.TestCases.TC003NewYork" />
+			<class name="com.OpenWeatherMap.TestCases.TC004Delhi" />
+			<class name="com.OpenWeatherMap.TestCases.TC005Tokyo" />
+		</classes>
+	</test>
+</suite>
